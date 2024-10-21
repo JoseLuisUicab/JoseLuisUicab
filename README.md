@@ -1,4 +1,4 @@
-### Hi name is jose luis student engineer system in the tecnlological the merida yucatan 👋
+### Ig en sistemas en poder brinda soporte tecnico, desarollo fronted y analisis de datos 
 
 <!--
 **JoseLuisUicab/JoseLuisUicab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
