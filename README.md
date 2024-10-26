@@ -1,10 +1,13 @@
 
-<h1>Acerca de mi</h1>
-<h2 align="center">Hola 👍👍, soy Jose Luis Uicab Can✨</h2>
-<p>Egrese de la carrera de Ingenieria en Sistemas Computacionales en el año 2023 con la especialidad de Tecnologias E Innovacion ⭐❤️</p>
-<p>me gusta el desarrollo web fronted comprometido ante cualquier situacion y obstaculo en lo que se presente 
-  me caracterizo por ser alguien 100% autodidacta, siempre abierto al aprendizaje constante mi relacion con los demas la considero buena 
-soy una persona que le gusta el ambiente sano para crecer profesionalmente</p>
+
+<h2 align="center">Hola 👋👋👋, soy Jose Luis Uicab Can 😊😊😊</h2>
+  <h1>Acerca de mi ⭐⭐</h1>
+<p>Egrese de la carrera de Ingenieria en Sistemas Computacionales 💻 en el año 2023 con la especialidad de Tecnologias E Innovacion ⭐❤️</p>
+<p>me gusta el desarrollo web fronted y soy comprometido ante cualquier situacion y obstaculo en lo que se presente 
+  me caracterizo por ser alguien 100% autodidacta 🧑‍🎓, siempre abierto al aprendizaje constante mi relacion con los demas la considero buena 
+soy una persona que le gusta el ambiente sano para crecer profesionalmente 💻💻</p>
+
+
   
 <h1> Experiencia en bicimaya</h1>
 <p>labore en bicimaya como auxiliar informatico mis actividades eran dar soporte a usuarios mediante el ERP de MACRONNET similar a sap b1, resolvia dudas de los usuarios
