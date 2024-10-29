@@ -17,7 +17,7 @@
 soy una persona que le gusta el ambiente sano para crecer profesionalmente 💻💻</p>
 
 
-  
+  /**
 <h1> Experiencia en bicimaya</h1>
 <p>labore en bicimaya como auxiliar informatico mis actividades eran dar soporte a usuarios mediante el ERP de MACRONNET similar a sap b1, resolvia dudas de los usuarios
 acerca del Sistema, hacia conusltas graficas mediante el ERP para poder sacar estadisticas en excel mensuales y generar reportes, daba soporte a todas las sucursales de la empresa
@@ -36,5 +36,5 @@ ofrecia promociones en fechas especificas, aclaraciones de saldo y levantamiento
 
 <h1>Barista en CoFFe Italian</h1>
 <p>mis actvidades como barista en la cafeteria consistia en prepar disitintos cafes como tambien paninos </p>
-
+**/
 
